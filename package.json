@@ -1,9 +1,0 @@
-{
-  "name": "study-abroad-website-2",
-  "version": "1.0.0",
-  "description": "Passage Education - Study abroad landing page",
-  "scripts": {
-    "build": "echo 'Static build ready'",
-    "start": "node server.js"
-  }
-}
